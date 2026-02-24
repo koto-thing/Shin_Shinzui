@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Shin_Shinzui/Scenes/Title.unity
+  - enabled: 0
+    path: Assets/Shin_Shinzui/Scenes/TitleScene.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
   m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 851921bf6bc838440b76abcb7dd370f5, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 9a6400bc87e03dd46b018acb489e4905, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 35845fe01580c41289b024647b1d1c53, type: 3}
+    com.unity.localization.settings: {fileID: 11400000, guid: a4c64d79e6884b543a1cda492f70ce5e, type: 2}
   m_UseUCBPForAssetBundles: 0
